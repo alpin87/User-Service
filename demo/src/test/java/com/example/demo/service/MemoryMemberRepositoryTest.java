@@ -1,3 +1,5 @@
+package com.example.demo.service;
+
 import com.example.demo.domain.Member;
 import com.example.demo.repository.MemoryMemberRepository;
 import org.junit.jupiter.api.AfterEach;
